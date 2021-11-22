@@ -1,10 +1,10 @@
 # PyQOutput
-Run command and Display outputs
+- Run command and Display outputs
 
-- pip install PyQOutput (making...)
+  pip install PyQOutput (making...)
 
 
-- Structure
+- Code Structure
   
   ./NextLib/.
     
